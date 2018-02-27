@@ -1,5 +1,5 @@
 # test-emoji
-Do your emoji's have trailing whitespace?
+Do your emojis have trailing whitespace?
 
 😊"
 
